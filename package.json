@@ -1,0 +1,18 @@
+{
+  "name": "file-to-array-buffer",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/file-to-array-buffer",
+  "scripts": {
+    "test": "standard"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "keywords": [
+    "array-buffer",
+    "blob",
+    "file",
+    "filereader"
+  ]
+}
